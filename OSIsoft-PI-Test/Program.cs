@@ -15,9 +15,9 @@ namespace OSIsoft_PI_Test
 
         private static string piSystemName = "jupiter001";
         private static string piSystemDatabase = "iON";
-        private static string piSystemUser = "rkirk.adm";
-        private static string piSystemPass = "GXj2N7ee6J7TkPdK";
-        private static string piSystemDomain = "tgg";
+        private static string piSystemUser = "";
+        private static string piSystemPass = "";
+        private static string piSystemDomain = "";
 
         static void Main(string[] args)
         {
